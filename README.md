@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-sqare&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pycharm-3AAC12?style=flat-square&logo=Pycharm&logoColor=Blue"/>
-<img src="https://img.shields.io/badge/Java-3AAC12?style=flat-square&logo=Java&logoColor=Black"/>
+<img src="https://img.shields.io/badge/Pycharm-3AAC12?style=flat-square&logo=Pycharm&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Java-3AAC12?style=flat-square&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-31BA23?style=flat-square&logo=Notion&logoColor=white"/>
