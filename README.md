@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-sqare&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-sqare&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-3AAC12?style=flat-square&logo=Pycharm&logoColor=Blue"/>
