@@ -49,3 +49,7 @@ DataBase
 SQL Query에 대한 기본적인 연산들을 할 수 있습니다.
 
 Mysql을 사용 할 수 있습니다.
+
+관련 자격증.
+
+[자격증](https://www.notion.so/a644a19a371e4223b7ca81c6649f5644?pvs=21)
